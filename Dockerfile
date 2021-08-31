@@ -26,6 +26,7 @@ RUN : \
        build-essential \
        python2.7 \
        python2.7-dev \
+       python3-dev \
        python3.6 \
        python3.9 \
        python3.6-dev \
